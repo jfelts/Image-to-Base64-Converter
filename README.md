@@ -1,3 +1,3 @@
-img2base64
+Img to Base64 converter
 ---
-<h4>A image to Base64 converter</h4>
+<h4>Image to base64 online converter</h4>
